@@ -1,0 +1,2 @@
+<?php
+return ['x-generator'=>'GlotPress/4.0.1','translation-revision-date'=>'2023-02-06 10:35:08+0000','plural-forms'=>'nplurals=2; plural=n > 1;','project-id-version'=>'Plugins - WP Map Block &#8211; Gutenberg Map Block for Google Map and OpenStreet Map by aBlocks - Stable (latest release)','language'=>'fr','messages'=>['https://academylms.net/wp-map-block'=>'https://academylms.net/wp-map-block','Gutenberg Map Block for Google Map and OpenStreet Map build with LeafletJS'=>'Gutenberg Map Block pour Google Map et OpenStreet Map construit avec LeafletJS']];
